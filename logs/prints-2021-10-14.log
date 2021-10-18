@@ -1,0 +1,127 @@
+17:21:25.102 [main] DEBUG testCases.LoginTest - Browser got launched
+17:21:27.536 [main] DEBUG testCases.LoginTest - Navigated to application URL
+17:21:27.695 [main] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+17:21:28.273 [main] DEBUG testCases.LoginTest - Clicked on login option
+17:21:28.484 [main] DEBUG testCases.LoginTest - Email address is entered
+17:21:28.585 [main] DEBUG testCases.LoginTest - Password is entered
+17:21:29.108 [main] DEBUG testCases.LoginTest - Clicked on login button
+17:21:29.224 [main] DEBUG testCases.LoginTest - Browser is closed
+17:21:30.587 [main] DEBUG testCases.LoginTest - Browser got launched
+17:21:33.096 [main] DEBUG testCases.LoginTest - Navigated to application URL
+17:21:33.213 [main] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+17:21:33.759 [main] DEBUG testCases.LoginTest - Clicked on login option
+17:21:33.915 [main] DEBUG testCases.LoginTest - Email address is entered
+17:21:34.010 [main] DEBUG testCases.LoginTest - Password is entered
+17:21:34.558 [main] DEBUG testCases.LoginTest - Clicked on login button
+17:21:34.692 [main] DEBUG testCases.LoginTest - Browser is closed
+15:01:42.869 [main] DEBUG testCases.LoginTest - Browser got launched
+15:01:45.363 [main] DEBUG testCases.LoginTest - Navigated to application URL
+15:01:45.477 [main] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+15:01:45.928 [main] DEBUG testCases.LoginTest - Clicked on login option
+15:01:46.147 [main] DEBUG testCases.LoginTest - Email address is entered
+15:01:46.244 [main] DEBUG testCases.LoginTest - Password is entered
+15:01:46.682 [main] DEBUG testCases.LoginTest - Clicked on login button
+15:01:46.837 [main] DEBUG testCases.LoginTest - Browser is closed
+15:01:48.140 [main] DEBUG testCases.LoginTest - Browser got launched
+15:01:50.525 [main] DEBUG testCases.LoginTest - Navigated to application URL
+15:01:50.620 [main] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+15:01:51.132 [main] DEBUG testCases.LoginTest - Clicked on login option
+15:01:51.288 [main] DEBUG testCases.LoginTest - Email address is entered
+15:01:51.386 [main] DEBUG testCases.LoginTest - Password is entered
+15:01:51.849 [main] DEBUG testCases.LoginTest - Clicked on login button
+15:01:51.975 [main] DEBUG testCases.LoginTest - Browser is closed
+15:04:25.502 [main] DEBUG testCases.LoginTest - Browser got launched
+15:04:28.041 [main] DEBUG testCases.LoginTest - Navigated to application URL
+15:04:28.163 [main] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+15:04:28.605 [main] DEBUG testCases.LoginTest - Clicked on login option
+15:04:28.810 [main] DEBUG testCases.LoginTest - Email address is entered
+15:04:28.908 [main] DEBUG testCases.LoginTest - Password is entered
+15:04:29.372 [main] DEBUG testCases.LoginTest - Clicked on login button
+15:04:29.506 [main] DEBUG testCases.LoginTest - Browser is closed
+15:04:30.851 [main] DEBUG testCases.LoginTest - Browser got launched
+15:04:33.333 [main] DEBUG testCases.LoginTest - Navigated to application URL
+15:04:33.419 [main] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+15:04:33.892 [main] DEBUG testCases.LoginTest - Clicked on login option
+15:04:34.043 [main] DEBUG testCases.LoginTest - Email address is entered
+15:04:34.137 [main] DEBUG testCases.LoginTest - Password is entered
+15:04:34.602 [main] DEBUG testCases.LoginTest - Clicked on login button
+15:04:34.728 [main] DEBUG testCases.LoginTest - Browser is closed
+15:06:31.634 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+15:06:34.453 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+15:06:34.767 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+15:06:35.417 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+15:06:35.676 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+15:06:35.831 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+15:06:36.281 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+15:06:36.395 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+15:06:37.677 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+15:06:40.182 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+15:06:40.274 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+15:06:40.707 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+15:06:40.861 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+15:06:40.961 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+15:06:41.441 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+15:06:41.556 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+19:33:17.687 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+19:33:20.734 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+19:33:21.067 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+19:33:21.883 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+19:33:22.121 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+19:33:22.245 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+19:33:22.930 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+19:33:23.095 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+19:33:24.783 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+19:33:27.020 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+19:33:27.106 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+19:33:27.573 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+19:33:27.760 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+19:33:27.896 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+19:33:28.346 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+19:33:28.444 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+19:47:02.660 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+19:47:05.434 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+19:47:05.912 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+19:47:06.507 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+19:47:06.743 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+19:47:07.004 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+19:47:07.505 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+19:47:07.665 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+19:47:09.396 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+19:47:11.616 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+19:47:11.748 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+19:47:12.218 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+19:47:12.414 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+19:47:12.518 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+19:47:12.983 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+19:47:13.121 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+19:49:36.242 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+19:49:39.603 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+19:49:39.876 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+19:49:40.513 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+19:49:40.761 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+19:49:40.867 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+19:49:41.360 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+19:49:41.475 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+19:49:43.148 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+19:49:45.310 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+19:49:45.400 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+19:49:45.874 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+19:49:46.058 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+19:49:46.154 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+19:49:46.594 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+19:49:46.720 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+19:54:02.297 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+19:54:04.916 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+19:54:05.475 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+19:54:06.085 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+19:54:06.300 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+19:54:06.518 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+19:54:07.016 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+19:54:07.150 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
+19:54:08.794 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser got launched
+19:54:11.214 [TestNG-tests-1] DEBUG testCases.LoginTest - Navigated to application URL
+19:54:11.315 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+19:54:11.801 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+19:54:11.989 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+19:54:12.080 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+19:54:12.540 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button

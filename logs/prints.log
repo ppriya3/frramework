@@ -1,0 +1,6 @@
+12:18:54.273 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on My Account dropdown
+12:18:54.789 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login option
+12:18:55.004 [TestNG-tests-1] DEBUG testCases.LoginTest - Email address is entered
+12:18:55.098 [TestNG-tests-1] DEBUG testCases.LoginTest - Password is entered
+12:18:55.556 [TestNG-tests-1] DEBUG testCases.LoginTest - Clicked on login button
+12:18:55.738 [TestNG-tests-1] DEBUG testCases.LoginTest - Browser is closed
