@@ -13,6 +13,7 @@ public class TestTwo extends BaseClass {
 	driver=initializeDriver();
 	driver.get("https://www.amazon.com/");
 	System.out.println("Test Two");
+	System.out.println("Someone made changes to code")
 	Thread.sleep(2000);
 	driver.close();
 	
